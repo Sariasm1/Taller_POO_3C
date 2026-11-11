@@ -10,4 +10,11 @@
         <maven.compiler.release>26</maven.compiler.release>
         <exec.mainClass>ejercicio4.Main</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20231013</version>
+        </dependency>
+    </dependencies>
 </project>
